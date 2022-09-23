@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --fmro=guillaume betty hello
+chmod --from=betty guillaume hello
